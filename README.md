@@ -1,16 +1,14 @@
-# EMBER BLOOM
+# best-game-01
 
-A chain-reaction arcade game for the make.fun best-game-01 bounty.
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Amusu781/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Amusu781/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
-A night sky fills with drifting ember orbs. Click to ignite a spark: a ring
-of fire expands from it, every ember it touches bursts, and every burst
-throws out its own ring. One good spark can clear half the sky. Burst the
-round's target before your sparks run out, or lose a heart. Three hearts,
-then the game is over.
+EMBER BLOOM — a chain-reaction arcade game. A night sky fills with drifting ember orbs. Click to ignite a spark: a ring of fire expands from it, every ember it touches bursts, and every burst throws out its own ring. One good spark can clear half the sky. Burst the round's target before your sparks run out, or lose a heart. Three hearts, then the game is over.
 
-## Play it
+## Run it
 
-```
+```sh
 node serve.ts
 ```
 
@@ -39,3 +37,7 @@ field; `?shot=start|play|clear|over&seed=N` stages a screenshot scene.
 ## License
 
 MIT — see LICENSE.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=8a2dzbnc&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
